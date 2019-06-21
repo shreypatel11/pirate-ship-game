@@ -1,15 +1,13 @@
 package code;
-import static org.junit.jupiter.api.Assertions.*;
+import static org.junit.Assert.assertFalse;
+import static org.junit.Assert.assertTrue;
 import code.OceanExplorer;
-import org.junit.jupiter.api.Test;
 import java.util.ArrayList;
 import javafx.scene.image.Image;
 import javafx.scene.image.ImageView;
+import org.junit.Test;
+
 import java.awt.Point;
-
-import static org.junit.jupiter.api.Assertions.*;
-
-import org.junit.jupiter.api.Test;
 
 class OceanMapTest {
 
